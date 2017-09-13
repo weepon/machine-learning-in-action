@@ -5,5 +5,5 @@
 # 第二章 k近邻算法（KNN）
 ## 代码
 * knn
-* python3.5《机器学习实战》学习笔记（一）：k近邻算法    [CSDN](http://blog.csdn.net/u013829973)  [code]()
-* python3.5《机器学习实战》学习笔记（二）：k近邻算法实战 [CSDN](http://blog.csdn.net/u013829973)  [code]()
+* python3.5《机器学习实战》学习笔记（一）：k近邻算法    [CSDN](http://blog.csdn.net/u013829973/article/details/77942942)  [code]()
+* python3.5《机器学习实战》学习笔记（二）：k近邻算法实战 [CSDN](http://blog.csdn.net/u013829973/article/details/77950299)  [code]()
