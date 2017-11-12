@@ -11,6 +11,6 @@
 * python3.5《机器学习实战》学习笔记（二）：k近邻算法实战 [CSDN博文](http://blog.csdn.net/u013829973/article/details/77950299)  
 # 第二章 决策树（decision tree）
 ## 代码
-* 预测隐形眼镜 [code](https://github.com/weepon/machine-learning-in-action/tree/master/KNN/01)
-* python3.5《机器学习实战》学习笔记（三）：决策树算法    [CSDN博文](http://blog.csdn.net/u013829973)  
-* python3.5《机器学习实战》学习笔记（四）：决策树算法实战 [CSDN博文](http://blog.csdn.net/u013829973) 
+* 预测隐形眼镜 [code](https://github.com/weepon/machine-learning-in-action/tree/master/tree)
+* python3.5《机器学习实战》学习笔记（三）：决策树算法    [CSDN博文](http://blog.csdn.net/u013829973/article/details/78458509)  
+* python3.5《机器学习实战》学习笔记（四）：决策树算法实战 [CSDN博文](http://blog.csdn.net/u013829973/article/details/78509019) 
