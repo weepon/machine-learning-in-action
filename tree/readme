@@ -1,1 +1,3 @@
 
+lenses.txt：UCI隐形眼镜数据
+tree_lenses.py:sklearn实战预测隐形眼镜类型
