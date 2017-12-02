@@ -4,7 +4,7 @@ Created on Sep 10, 2017
 
 kNN: k近邻（k Nearest Neighbors） 电影分类
   
-author：we-lee
+author：weepon
 '''
 import numpy as np
 import matplotlib
